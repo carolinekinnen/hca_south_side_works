@@ -1,1 +1,2 @@
-# hca_south_side_works
+# 2021 HCA - South Side Works Team
+Data collection and presentation for Violence Prevention Committee
